@@ -586,7 +586,7 @@ function togglePasswordVisibility() {
                 }
               }
 
-
+              // simple 
               function validateRepeatPassword() {
                 var password = document.getElementById('pass').value;
                 var repeatPassword = document.getElementById('re_pass').value;
